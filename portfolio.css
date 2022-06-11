@@ -286,6 +286,7 @@ div .form {
     background-color: rgb(193 9 9);
     transition: transform .4s;
     margin-top: 5px;
+    cursor: pointer;
 }
 
 .contact .form button:hover {
